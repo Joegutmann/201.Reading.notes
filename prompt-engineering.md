@@ -37,5 +37,5 @@ Flipping: Some traders specialize in buying cards at a low price and selling the
 Understanding the Pokémon TCG market requires a mix of understanding both the game's mechanics and broader economic principles. As with any investment, the market carries a certain level of risk and it's important to do thorough research before making any significant financial decisions.
 
 
-
+https://chat.openai.com/share/a78faa0d-835f-402c-b4af-55260cd88cff
 
