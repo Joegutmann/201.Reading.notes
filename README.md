@@ -1,4 +1,4 @@
-# 201.Reading.notes
+201.Reading.notes
 
 Within this repo are the reading assignments we have been assigned in our Ops 201 course at CodeFellows. In each Wiki entry it summarizes key information from each days assigned reading. These skills are nescessary building blocks to learn the foundational skills for Cyber Security Practicioners. While not all encompassing, it is definitely a great place to start. The skills we learned are summarized best by this quote off of the Code Fellows 201 course description: "Learn to support technology operations by resolving issues with hardware, software, and virtual or cloud systems."..."Key skills such as communication, knowledge and process documentation, fundamental terminal operations, performance monitoring, system process management, issue handling, backup/imaging/recovery tools, and software application operations are developed." (https://www.codefellows.org/courses/ops-201/foundations-of-computer-operations/)
 
